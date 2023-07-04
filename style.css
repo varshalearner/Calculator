@@ -33,7 +33,6 @@ h1{
     outline: none;
     border-radius: 10px;
     color: rgb(39, 38, 38);
-    font-family: Georgia, Times, 'Times New Roman', serif;
 }
 /* #display:focus {
     background: linear-gradient(125deg,rgb(185, 138, 248),rgb(238, 131, 206));
